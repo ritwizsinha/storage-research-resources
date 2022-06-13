@@ -2,6 +2,7 @@ Link to some latest research and OSS projects in storage and database systems
  
  ### Conferences
  - [USENIX](https://www.usenix.org/publications/proceedings/OSDI)
+ - [SIGMOD](https://sigmod.org/)
  
  ### Blogs
  - [OtterTune](https://ottertune.com/blog/)
