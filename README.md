@@ -28,3 +28,8 @@ Link to some latest research and OSS projects in storage and database systems
  - [ScyllaDB](https://github.com/scylladb/scylla)
  - [Open Data Ops](https://github.com/odpf)
  - [Presto Db](https://github.com/prestodb/presto)
+
+
+### Blogs
+- [Confessions of a Code Addict](https://blog.codingconfessions.com/)
+- 
